@@ -20,7 +20,7 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"league/csv": "~6.0",
+		"league/csv": "~8.0",
 		"mustangostang/spyc": "0.5.*@dev",
 		"illuminate/support": ">=4.0"
 	},
